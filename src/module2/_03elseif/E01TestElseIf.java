@@ -15,5 +15,6 @@ public class E01TestElseIf {
 			System.out.println("x is positive");
 		}
 		System.out.println("after conditional");
+		System.out.println("take");
 	}
 }
