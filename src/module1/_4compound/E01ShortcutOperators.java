@@ -14,7 +14,7 @@ public class E01ShortcutOperators {
 		score *= 2;
 		System.out.println(score);
 		int penalty = 5;
-		score -= penalty/2;
+		score -= penalty/2.0;
 		System.out.println(score);
 	}
 }

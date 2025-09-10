@@ -8,6 +8,7 @@ public class E02PostfixExample {
 		int count = 7;
 		System.out.println(count);
 		System.out.println(count++);
+		System.out.println(++count);
 		System.out.println(count);
 	}
 }

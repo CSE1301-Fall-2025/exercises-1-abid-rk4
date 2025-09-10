@@ -7,6 +7,7 @@ public class E02LoopErrors {
 		int count = 1;
 		while (count < 8) {
 			System.out.println(count);
+			count++;
 		}
 	}
 }

@@ -11,9 +11,16 @@ public class E05TestCold {
 		System.out.println("Is it cold?");
 		boolean isCold = scan.nextBoolean();
 
-		if (isCold);
+		if (isCold == false){
+		System.out.print("Nice try!");
+		}
+		else { 
 		System.out.println("Wear a coat");
 		System.out.println("Wear gloves");
+		}
+		
+		
+		}
 
 	}
-}
+

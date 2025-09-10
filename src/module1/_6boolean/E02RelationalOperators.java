@@ -13,3 +13,8 @@ public class E02RelationalOperators {
 		System.out.println( age-1 >= year );
 	}
 }
+/*fale
+ * True
+ * True
+ * True
+ */

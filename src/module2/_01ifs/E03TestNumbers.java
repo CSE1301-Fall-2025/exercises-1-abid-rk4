@@ -6,7 +6,7 @@ public class E03TestNumbers {
 	//for negative numbers
 	public static void main(String[] args) {
 		// Get a random number from -10 up to 10.
-		int number = (int) (Math.random()*21 - 10);
+		int number = (int) (Math.random()*5-3);
 		System.out.println("The number is " + number);
 
 		// is it positive?
@@ -16,6 +16,10 @@ public class E03TestNumbers {
 		// is it 0?
 		if (number == 0) {
 			System.out.println(number + " is zero!");
+
+		}
+		if (number<0){
+			System.out.println( number + " is negative" );
 		}
 	}
 }

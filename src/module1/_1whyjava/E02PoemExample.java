@@ -5,5 +5,9 @@ public class E02PoemExample {
 	public static void main(String[] args) {
 		System.out.println("Roses are red,");
 		System.out.println("Violets are blue,");
+		System.out.println("Lemons are green,");
+		System.out.println("Sugars are sweet!");
+		System.out.print("Java is Interesting,");
+		System.out.print("And so are you");
 	}
 }

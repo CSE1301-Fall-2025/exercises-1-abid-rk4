@@ -9,6 +9,8 @@ public class E02ForLoopFromWhile {
 		while (count <= 10) {
 			System.out.println(count);
 			count++;
+
+		
 		}
 	}
 }

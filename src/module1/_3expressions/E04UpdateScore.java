@@ -10,5 +10,12 @@ public class E04UpdateScore {
 		System.out.println(score);
 		score = score + 1;
 		System.out.println(score);
+		score = score + 3;
+		System.out.println (score);
+		score = score - 4;
+		System.out.println (score);
+
+	
+	
 	}
 }
